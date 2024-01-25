@@ -259,6 +259,14 @@ select {
   color: #fff;
 }
 
+
+.coin{
+  height: 1.2rem;
+  margin-right: .3rem;
+  margin-bottom: .3rem;
+}
+
+
 @media screen and (max-width: 900px) {
   .hero-pics {
     display: none;
@@ -280,15 +288,15 @@ select {
     order: 2;
   }
 
-  .arrow{
+  .arrow {
     display: none;
   }
 
-  .btt-btn{
+  .btt-btn {
     margin-top: 100px;
   }
 
-  .yt{
+  .yt {
     border-bottom: 1px solid gray;
   }
 }
