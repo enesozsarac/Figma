@@ -259,13 +259,17 @@ select {
   color: #fff;
 }
 
-
-.coin{
+.coin {
   height: 1.2rem;
-  margin-right: .3rem;
-  margin-bottom: .3rem;
+  margin-right: 0.3rem;
+  margin-bottom: 0.3rem;
 }
 
+
+.btt-btn a{
+  text-decoration: none;
+  color: gray;
+}
 
 @media screen and (max-width: 900px) {
   .hero-pics {
@@ -299,4 +303,9 @@ select {
   .yt {
     border-bottom: 1px solid gray;
   }
+
+  .gs-img{
+    margin-left: 80px;
+  }
+
 }
